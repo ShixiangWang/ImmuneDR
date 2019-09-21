@@ -1,0 +1,20 @@
+Package: ImmuneDR
+Title: A Community Curated Immune Resource Database in R Format
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Shixiang",
+           family = "Wang",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: GPL-3
+Imports: 
+    magrittr,
+    rlang (>= 0.1.2)
+Suggests: 
+    roxygen2
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
