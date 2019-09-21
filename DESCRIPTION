@@ -10,8 +10,15 @@ Authors@R:
 Description: What the package does (one paragraph).
 License: GPL-3
 Imports: 
+    data.table,
+    dplyr,
+    ggplot2,
+    glue,
     magrittr,
-    rlang (>= 0.1.2)
+    purrr,
+    rlang (>= 0.1.2),
+    stringr,
+    tidyr
 Suggests: 
     roxygen2
 Encoding: UTF-8

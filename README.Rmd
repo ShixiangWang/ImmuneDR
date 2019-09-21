@@ -36,6 +36,8 @@ All data will be stored in GitHub (when less than 1GB) and access methods are pr
 
 Thanks.
 
+-- *Shixiang*
+
 ## Submission
 
 TODO: create an issue template for submission.

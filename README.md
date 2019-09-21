@@ -39,6 +39,8 @@ methods are provided to everyone for free.
 
 Thanks.
 
+– *Shixiang*
+
 ## Submission
 
 TODO: create an issue template for submission.
