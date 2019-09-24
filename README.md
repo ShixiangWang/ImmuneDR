@@ -23,8 +23,8 @@ Better science is open science and shared science. As a researcher in
 cancer immunomics, I always spend much time in data cleaning in my every
 project. However, there are a limited number of datasets available for
 analysis. Most of them are very small with only a few patients/samples,
-especially for immunotherapy datasets. This causing many works cannot
-reproduce or have limited power. Therefore, I create this community
+especially for immunotherapy datasets. This causing many works cannot be
+reproduced or have limited power. Therefore, I create this community
 mantained project named **ImmuneDR** to host a curated immune resource
 database in r format.
 
@@ -56,7 +56,9 @@ it as an example to show how to store data and use them.
 
 ## LICENSE
 
-GPL-3
-
-Commerical use must provide copyright licensed in [LICENSE](LICENSE.md)
-and cite papers providing original data.
+The software is made available for non commercial research purposes only
+under the [GNU General Public License](LICENSE.md). However,
+notwithstanding any provision of the GNU General Public License, the
+software currently may not be used for commercial purposes without
+explicit written permission after contacting Shixiang Wang
+<wangshx@shanghaitech.edu.cn>.
